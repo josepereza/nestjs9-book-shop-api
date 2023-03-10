@@ -27,7 +27,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Update 
-* Para que funcione posiblemente tengamos que actualizar todos los paquetes npm a la ultima version
+* Para que funcione posiblemente tengamos que actualizar todas las depencencias  (paquetes npm del package.json)  a la ultima version
 * Tenemos que crear la carpeta .env y rellenar los datos de env-example.
 * Si queremos crear o modificar registros de la base de datos , tendremos que cambiar el role de usuario a "admin".
 
