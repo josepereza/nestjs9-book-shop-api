@@ -47,7 +47,7 @@ Ahora ejecuta la actualización:
 npm update
 ```
 ## Frontend.
-* Acceso a Datos desde angular
+* Ejemplo de acceso a los Datos desde angular
 
 ```
 import { HttpClient, HttpHeaders } from '@angular/common/http';
