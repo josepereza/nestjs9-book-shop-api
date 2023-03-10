@@ -29,7 +29,7 @@
 ## Update 
 * Para que funcione posiblemente tengamos que actualizar todos los paquetes npm a la ultima version
 * Tenemos que crear la carpeta .env y rellenar los datos de env-example.
-
+* Si queremos crear o modificar registros de la base de datos , tendremos que cambiar el role de usuario a "admin".
 
 Para actualizar a una versión mayor todos los paquetes, instala el paquete npm-check-updates globalmente:
 
