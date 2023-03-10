@@ -26,6 +26,23 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Update (Para que funcione posiblemente tengamos que actualizar todos los paquetes npm a la ultima version)
+Para actualizar a una versión mayor todos los paquetes, instala el paquete npm-check-updates globalmente:
+
+``` 
+npm install -g npm-check-updates
+```
+luego ejecútalo:
+```
+ncu -u
+```
+Esto actualizará todas las dependencias a su última versión mayor en el archivo package.json, para poder instalarlas.
+
+Ahora ejecuta la actualización:
+```
+npm update
+```
+
 ## Installation
 
 ```bash
