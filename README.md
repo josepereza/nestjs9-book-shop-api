@@ -26,7 +26,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Update (Para que funcione posiblemente tengamos que actualizar todos los paquetes npm a la ultima version)
+## Update 
+* Para que funcione posiblemente tengamos que actualizar todos los paquetes npm a la ultima version
+* Tenemos que crear la carpeta .env y rellenar los datos de env-example
 Para actualizar a una versión mayor todos los paquetes, instala el paquete npm-check-updates globalmente:
 
 ``` 
